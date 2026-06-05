@@ -200,7 +200,7 @@ def update_prompt(selected):
 with gr.Blocks() as app:
 
     gr.Markdown(
-        "# PromptForge"
+        "# PromptForge — Multi-Mode AI Assistant"
     )
 
     mode = gr.Dropdown(
