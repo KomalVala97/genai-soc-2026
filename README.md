@@ -24,19 +24,19 @@ Each mode changes the assistant's behavior through system prompts and output for
 
 ## Project Structure
 
-week1-promptforge/
-
+```text
+genai-soc-2026/
 ├── app.py
 ├── requirements.txt
 ├── .env.example
 ├── README.md
 ├── .gitignore
 └── screenshots/
-
-        ├── technical.png
-        ├── debate.png
-        ├── reviewer.png
-        └── writer.png
+   ├── technical.png
+   ├── debate.png
+   ├── reviewer.png
+   └── writer.png
+```
 
 ---
 
@@ -51,7 +51,7 @@ git clone https://github.com/KomalVala97/genai-soc-2026.git
 Open folder:
 
 ```bash
-cd week1-promptforge
+cd genai-soc-2026
 ```
 
 Create virtual environment:
