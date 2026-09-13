@@ -129,4 +129,4 @@ python app.py
 
 ## Author
 
-Komal Vala
+[Komal Vala](https://github.com/KomalVala97)
